@@ -1,0 +1,1364 @@
+[
+    {
+        "id": "OP01-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Roronoa Zoro",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x1] [your turn] all of your characters gain +1000 power.",
+        "card_set": "Romance Dawn [Op01]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Romance Dawn",
+            "pack_code": "op-01"
+        }
+    },
+    {
+        "id": "ST12-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-001.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Roronoa Zoro & Sanji",
+        "rare": "L",
+        "cost": "4",
+        "attribute": "Slash/Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type06.png",
+        "power": "5000",
+        "counter": null,
+        "color": "green/blue",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x1] [when attacking] [once per turn] you may return 1 of your characters with a cost of 2 or more to the owner's hand: set up to 1 of your characters with 7000 power or less as active.",
+        "card_set": "Zoro & Sanji [St-12]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Zoro And Sanji",
+            "pack_code": "st-12"
+        }
+    },
+    {
+        "id": "ST05-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Shanks",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "purple",
+        "crew": [
+            "Film",
+            "The Four Emperors",
+            "Red-Haired Pirates"
+        ],
+        "effect": "[activate: main] [once per turn] don!! −3 (you may return the specified number of don!! cards from your field to your don!! deck.): all of your {film} type characters gain +2000 power during this turn.",
+        "card_set": "One Piece Film Edition [St-05]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) One Piece Film Edition",
+            "pack_code": "st-05"
+        }
+    },
+    {
+        "id": "ST07-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Charlotte Linlin",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "yellow",
+        "crew": [
+            "The Four Emperors",
+            "Big Mom Pirates"
+        ],
+        "effect": "[don!! x2] [when attacking] you may add 1 card from the top or bottom of your life cards to your hand: if you have 2 or less life cards, add up to 1 card from your hand to the top of your life cards.",
+        "card_set": "Big Mom Pirates [St-07]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Big Mom Pirates",
+            "pack_code": "st-07"
+        }
+    },
+    {
+        "id": "OP01-035",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-035_p2.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p2",
+        "name": "Okiku",
+        "rare": "SP CARD",
+        "cost": "3",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "green",
+        "crew": [
+            "Land Of Wano",
+            "The Akazaya Nine"
+        ],
+        "effect": "[don!! x1] [when attacking] [once per turn] rest up to 1 of your opponent's characters with a cost of 5 or less.",
+        "card_set": "500 Years In The Future [Op-07]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) 500 Years In The Future",
+            "pack_code": "op-07"
+        }
+    },
+    {
+        "id": "ST09-014",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-014.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Narikabura Arrow",
+        "rare": "C",
+        "cost": "1",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "yellow",
+        "crew": [
+            "Land Of Wano"
+        ],
+        "effect": "[counter] if you have 2 or less life cards, give up to 1 of your opponent's leader or character cards −3000 power during this turn.",
+        "card_set": "Yamato[St-09]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Yamato",
+            "pack_code": "st-09"
+        }
+    },
+    {
+        "id": "OP01-016",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p4.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p4",
+        "name": "Nami",
+        "rare": "SP CARD",
+        "cost": "1",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "2000",
+        "counter": "1000",
+        "color": "red",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[on play] look at 5 cards from the top of your deck; reveal up to 1 {straw hat crew} type card other than [nami] and add it to your hand. then, place the rest at the bottom of your deck in any order.",
+        "card_set": "Awakening Of The New Era[Op05]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Awakening Of The New Era",
+            "pack_code": "op-05"
+        }
+    },
+    {
+        "id": "OP01-006",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-006.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Otama",
+        "rare": "UC",
+        "cost": "1",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "-",
+        "counter": "2000",
+        "color": "red",
+        "crew": [
+            "Land Of Wano"
+        ],
+        "effect": "[on play] give up to 1 of your opponent's characters −2000 power during this turn.",
+        "card_set": "Romance Dawn [Op01]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Romance Dawn",
+            "pack_code": "op-01"
+        }
+    },
+    {
+        "id": "ST01-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Monkey.D.Luffy",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[activate: main] [once per turn] give this leader or 1 of your characters up to 1 rested don!! card.",
+        "card_set": "Straw Hat Crew[St-01]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Straw Hat Crew",
+            "pack_code": "st-01"
+        }
+    },
+    {
+        "id": "OP07-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Monkey.D.Dragon",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Revolutionary Army"
+        ],
+        "effect": "[activate: main] [once per turn] give up to 2 total of your currently\n                  given don!! cards to 1 of your characters.\n                ",
+        "card_set": "500 Years In The Future [Op-07]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) 500 Years In The Future",
+            "pack_code": "op-07"
+        }
+    },
+    {
+        "id": "OP02-028",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-028_p1.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": "p1",
+        "name": "Usopp",
+        "rare": "C",
+        "cost": "3",
+        "attribute": "Ranged",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png",
+        "power": "5000",
+        "counter": "1000",
+        "color": "green",
+        "crew": [
+            "Film",
+            "Straw Hat Crew"
+        ],
+        "effect": "-",
+        "card_set": "Uta[St-11]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Uta",
+            "pack_code": "st-11"
+        }
+    },
+    {
+        "id": "ST06-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Sakazuki",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "black",
+        "crew": [
+            "Navy"
+        ],
+        "effect": "[activate: main] [once per turn] ③ (you may rest the specified number of don!! cards in your cost area.) you may trash 1 card from your hand: k.o. up to 1 of your opponent's characters with a cost of 0.",
+        "card_set": "Absolute Justice [St-06]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Absolute Justice",
+            "pack_code": "st-06"
+        }
+    },
+    {
+        "id": "ST03-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Crocodile",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "blue",
+        "crew": [
+            "The Seven Warlords Of The Sea",
+            "Baroque Works"
+        ],
+        "effect": "[activate: main] [once per turn] don!! −4 (you may return the specified number of don!! cards from your field to your don!! deck.): return up to 1 character with a cost of 5 or less to the owner's hand.",
+        "card_set": "The Seven Warlords Of The Sea[St-03]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) The Seven Warlords Of The Sea",
+            "pack_code": "st-03"
+        }
+    },
+    {
+        "id": "ST06-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-002.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Koby",
+        "rare": "C",
+        "cost": "1",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "2000",
+        "counter": "1000",
+        "color": "black",
+        "crew": [
+            "Navy"
+        ],
+        "effect": "[on play] you may trash 1 card from your hand: k.o. up to 1 of your opponent's characters with a cost of 0.",
+        "card_set": "Absolute Justice [St-06]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Absolute Justice",
+            "pack_code": "st-06"
+        }
+    },
+    {
+        "id": "ST02-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Eustass\"Captain\"Kid",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "green",
+        "crew": [
+            "Supernovas",
+            "Kid Pirates"
+        ],
+        "effect": "[activate: main] [once per turn]  ③ (you may rest the specified number of don!! cards in your cost area.) you may trash 1 card from your hand: set this leader as active.",
+        "card_set": "Worst Generation[St-02]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Worst Generation",
+            "pack_code": "st-02"
+        }
+    },
+    {
+        "id": "ST08-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Monkey.D.Luffy",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "5000",
+        "counter": null,
+        "color": "black",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[your turn] when a character is k.o.'d, give up to 1 rested don!! card to this leader.",
+        "card_set": "Monkey D. Luffy[St-08]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Monkey D Luffy",
+            "pack_code": "st-08"
+        }
+    },
+    {
+        "id": "ST04-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Ulti",
+        "rare": "C",
+        "cost": "4",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "5000",
+        "counter": "2000",
+        "color": "purple",
+        "crew": [
+            "Animal Kingdom Pirates"
+        ],
+        "effect": "[on play] don!! −1 (you may return the specified number of don!! cards from your field to your don!! deck.): play up to 1 [page one] card with a cost of 4 or less from your hand.",
+        "card_set": "Animal Kingdom Pirates[St-04]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Animal Kingdom Pirates",
+            "pack_code": "st-04"
+        }
+    },
+    {
+        "id": "ST07-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-002.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Charlotte Anana",
+        "rare": "C",
+        "cost": "1",
+        "attribute": "Wisdom",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png",
+        "power": "3000",
+        "counter": "1000",
+        "color": "yellow",
+        "crew": [
+            "Big Mom Pirates"
+        ],
+        "effect": "-",
+        "card_set": "Big Mom Pirates [St-07]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Big Mom Pirates",
+            "pack_code": "st-07"
+        }
+    },
+    {
+        "id": "OP04-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Nefeltari Vivi",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red/blue",
+        "crew": [
+            "Alabasta"
+        ],
+        "effect": "this leader cannot attack.[activate: main] [once per turn] ➁ (you may rest the specified number of don!! cards in your cost area.): draw 1 card and up to 1 of your characters gains [rush] during this turn.(this card can attack on the turn in which it is played.)",
+        "card_set": "Kingdoms Of Intrigue [Op04]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Kingdoms Of Intrigue",
+            "pack_code": "op-04"
+        }
+    },
+    {
+        "id": "EB01-006",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": "p2",
+        "name": "Tony Tony.Chopper",
+        "rare": "SR",
+        "cost": "3",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "4000",
+        "counter": "1000",
+        "color": "red",
+        "crew": [
+            "Animal",
+            "Straw Hat Crew"
+        ],
+        "effect": "[blocker] (after your opponent declares an attack, you may rest this card to make it the new target of the attack.)[don!! x2] [when attacking] give up to 1 of your opponent's characters −3000 power during this turn.",
+        "card_set": "Memorial Collection [Eb-01]",
+        "pack_data": {
+            "pack_name": "(Extra Booster) Memorial Collection",
+            "pack_code": "eb-01"
+        }
+    },
+    {
+        "id": "ST10-015",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-015.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Gum-Gum Giant Sumo Slap",
+        "rare": "C",
+        "cost": "1",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[counter] up to 1 of your leader or character cards gains +2000 power during this battle, and k.o. up to 1 of your opponent's characters with 2000 power or less.",
+        "card_set": "The Three Captains[St-10]",
+        "pack_data": {
+            "pack_name": "(Ultra Deck) The Three Captains",
+            "pack_code": "st-10"
+        }
+    },
+    {
+        "id": "OP03-016",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-016.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Flame Emperor",
+        "rare": "R",
+        "cost": "7",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Whitebeard Pirates"
+        ],
+        "effect": "[main] if your leader is [portgas.d.ace], k.o. up to 1 of your opponent's characters with 8000 power or less, and your leader gains [double attack] and +3000 power during this turn.(this card deals 2 damage.)",
+        "card_set": "Pillars Of Strength [Op03]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Pillars Of Strength",
+            "pack_code": "op-03"
+        }
+    },
+    {
+        "id": "ST13-017",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-017.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Flame Dragon King",
+        "rare": "C",
+        "cost": "2",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "yellow",
+        "crew": [
+            "Dressrosa",
+            "Revolutionary Army"
+        ],
+        "effect": "[counter] up to 1 of your leader or character cards gains +4000 power during this battle. then, look at all your life cards and place them back in your life area in any order.",
+        "card_set": "The Three Brothers[St13]",
+        "pack_data": {
+            "pack_name": "(Ultra Deck) The Three Brothers",
+            "pack_code": "st-13"
+        }
+    },
+    {
+        "id": "OP02-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001_p1.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": "p1",
+        "name": "Edward.Newgate",
+        "rare": "L",
+        "cost": "6",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "6000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "The Four Emperors",
+            "Whitebeard Pirates"
+        ],
+        "effect": "[end of your turn] add 1 card from the top of your life cards to your hand.",
+        "card_set": "Paramount War [Op02]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Paramount War",
+            "pack_code": "op-02"
+        }
+    },
+    {
+        "id": "OP01-051",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p2.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": "p2",
+        "name": "Eustass\"Captain\"Kid",
+        "rare": "SP CARD",
+        "cost": "8",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "8000",
+        "counter": null,
+        "color": "green",
+        "crew": [
+            "Supernovas",
+            "Kid Pirates"
+        ],
+        "effect": "[don!! x1] [opponent's turn] if this character is rested, your opponent cannot attack any card other than the character [eustass\"captain\"kid].[activate: main] [once per turn] you may rest this character: play up to 1 character card with a cost of 3 or less from your hand.",
+        "card_set": "Pillars Of Strength [Op03]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Pillars Of Strength",
+            "pack_code": "op-03"
+        }
+    },
+    {
+        "id": "ST02-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-002.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Vito",
+        "rare": "C",
+        "cost": "3",
+        "attribute": "Ranged",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png",
+        "power": "5000",
+        "counter": "1000",
+        "color": "green",
+        "crew": [
+            "Firetank Pirates"
+        ],
+        "effect": "-",
+        "card_set": "Worst Generation[St-02]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Worst Generation",
+            "pack_code": "st-02"
+        }
+    },
+    {
+        "id": "OP05-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p1.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": "p1",
+        "name": "Sabo",
+        "rare": "L",
+        "cost": "4",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red/black",
+        "crew": [
+            "Revolutionary Army"
+        ],
+        "effect": "[don!! x1] [opponent's turn] [once per turn] if your character with 5000 power or more would be k.o.'d, you may give that character −1000 power during this turn instead of that character being k.o.'d.",
+        "card_set": "Awakening Of The New Era[Op05]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Awakening Of The New Era",
+            "pack_code": "op-05"
+        }
+    },
+    {
+        "id": "ST03-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-002.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Edward Weevil",
+        "rare": "C",
+        "cost": "3",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": "1000",
+        "color": "blue",
+        "crew": [
+            "The Seven Warlords Of The Sea"
+        ],
+        "effect": "-",
+        "card_set": "The Seven Warlords Of The Sea[St-03]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) The Seven Warlords Of The Sea",
+            "pack_code": "st-03"
+        }
+    },
+    {
+        "id": "ST09-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Yamato",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "5000",
+        "counter": null,
+        "color": "yellow",
+        "crew": [
+            "Land Of Wano"
+        ],
+        "effect": "[don!! x1] [opponent's turn] if you have 2 or less life cards, this leader gains +1000 power.",
+        "card_set": "Yamato[St-09]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Yamato",
+            "pack_code": "st-09"
+        }
+    },
+    {
+        "id": "OP01-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001_p2.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p2",
+        "name": "Roronoa Zoro",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x1] [your turn] all of your characters gain +1000 power.",
+        "card_set": "Premium Card Collection -25Th Edition-",
+        "pack_data": {
+            "pack_name": null,
+            "pack_code": null
+        }
+    },
+    {
+        "id": "OP02-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Edward.Newgate",
+        "rare": "L",
+        "cost": "6",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "6000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "The Four Emperors",
+            "Whitebeard Pirates"
+        ],
+        "effect": "[end of your turn] add 1 card from the top of your life cards to your hand.",
+        "card_set": "Paramount War [Op02]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Paramount War",
+            "pack_code": "op-02"
+        }
+    },
+    {
+        "id": "ST13-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Sabo",
+        "rare": "L",
+        "cost": "4",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red/yellow",
+        "crew": [
+            "Dressrosa",
+            "Revolutionary Army"
+        ],
+        "effect": "[don!! x1] [activate: main] [once per turn] you may add 1 of your characters with a cost of 3 or more and 7000 power or more to the top of your life cards face-up: up to 1 of your characters gains +2000 power until the start of your next turn.",
+        "card_set": "The Three Brothers[St13]",
+        "pack_data": {
+            "pack_name": "(Ultra Deck) The Three Brothers",
+            "pack_code": "st-13"
+        }
+    },
+    {
+        "id": "OP01-005",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-005_p1.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": "p1",
+        "name": "Uta",
+        "rare": "R",
+        "cost": "4",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "4000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Film"
+        ],
+        "effect": "[on play] add up to 1 red character card other than [uta] with a cost of 3 or less from your trash to your hand.",
+        "card_set": "Premium Card Collection -Film Red Edition-",
+        "pack_data": {
+            "pack_name": null,
+            "pack_code": null
+        }
+    },
+    {
+        "id": "OP01-047",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p2",
+        "name": "Trafalgar Law",
+        "rare": "SP CARD",
+        "cost": "5",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "6000",
+        "counter": null,
+        "color": "green",
+        "crew": [
+            "Supernovas",
+            "Heart Pirates"
+        ],
+        "effect": "[blocker] (after your opponent declares an attack, you may rest this card to make it the new target of the attack.)[on play] you may return 1 of your characters to the owner's hand: play up to 1 character card with a cost of 3 or less from your hand.",
+        "card_set": "Kingdoms Of Intrigue [Op04]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Kingdoms Of Intrigue",
+            "pack_code": "op-04"
+        }
+    },
+    {
+        "id": "P-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Monkey.D.Luffy",
+        "rare": "P",
+        "cost": "6",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "7000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x2] this character gains [rush].(this card can attack on the turn in which it is played.)",
+        "card_set": "Included In Promotion Pack 2022",
+        "pack_data": {
+            "pack_name": null,
+            "pack_code": null
+        }
+    },
+    {
+        "id": "EB01-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-002.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Izo",
+        "rare": "R",
+        "cost": "5",
+        "attribute": "Ranged",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png",
+        "power": "7000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Land Of Wano",
+            "Whitebeard Pirates"
+        ],
+        "effect": "[on play] give up to 1 rested don!! card to your leader or 1 of your characters.[on your opponent's attack] [once per turn] you may trash 1 card from your hand: if your leader has the {land of wano} or {whitebeard pirates} type, give up to 1 of your opponent's leader or character cards −2000 power during this turn.",
+        "card_set": "Memorial Collection [Eb-01]",
+        "pack_data": {
+            "pack_name": "(Extra Booster) Memorial Collection",
+            "pack_code": "eb-01"
+        }
+    },
+    {
+        "id": "ST01-017",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Thousand Sunny",
+        "rare": "C",
+        "cost": "2",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[activate: main] you may rest this stage: up to 1 {straw hat crew} type leader or character card on your field gains +1000 power during this turn.",
+        "card_set": "Straw Hat Crew[St-01]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Straw Hat Crew",
+            "pack_code": "st-01"
+        }
+    },
+    {
+        "id": "P-015",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-015.png?240619",
+        "illustration_type": "Other",
+        "illustration_alternative_id": null,
+        "name": "Sunny-Kun",
+        "rare": "P",
+        "cost": "1",
+        "attribute": "Wisdom",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type05.png",
+        "power": "3000",
+        "counter": "1000",
+        "color": "red",
+        "crew": [
+            "Film",
+            "Straw Hat Crew"
+        ],
+        "effect": "-",
+        "card_set": "Included In Film Red Promotion Card Set",
+        "pack_data": {
+            "pack_name": null,
+            "pack_code": null
+        }
+    },
+    {
+        "id": "EB01-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Kouzuki Oden",
+        "rare": "L",
+        "cost": "4",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red/green",
+        "crew": [
+            "Land Of Wano",
+            "Kouzuki Clan"
+        ],
+        "effect": "all of your {land of wano} type character cards without a counter have a +1000 counter, according to the rules.[don!! x1] [when attacking] if you have a {land of wano} type character with a cost of 5 or more, this leader gains +1000 power until the start of your next turn.",
+        "card_set": "Memorial Collection [Eb-01]",
+        "pack_data": {
+            "pack_name": "(Extra Booster) Memorial Collection",
+            "pack_code": "eb-01"
+        }
+    },
+    {
+        "id": "ST07-007",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Charlotte Brulee",
+        "rare": "C",
+        "cost": "3",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "1000",
+        "counter": "1000",
+        "color": "yellow",
+        "crew": [
+            "Big Mom Pirates"
+        ],
+        "effect": "[blocker] (after your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "card_set": "Big Mom Pirates [St-07]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Big Mom Pirates",
+            "pack_code": "st-07"
+        }
+    },
+    {
+        "id": "ST04-017",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Onigashima Island",
+        "rare": "C",
+        "cost": "3",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "purple",
+        "crew": [
+            "Animal Kingdom Pirates"
+        ],
+        "effect": "[activate: main] you may rest this stage: if your leader has the {animal kingdom pirates} type, add up to 1 don!! card from your don!! deck and rest it.",
+        "card_set": "Animal Kingdom Pirates[St-04]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Animal Kingdom Pirates",
+            "pack_code": "st-04"
+        }
+    },
+    {
+        "id": "OP06-038",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-038.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "The Billion-fold World Trichiliocosm",
+        "rare": "UC",
+        "cost": "1",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "green",
+        "crew": [
+            "Dressrosa",
+            "Straw Hat Crew"
+        ],
+        "effect": "[counter] up to 1 of your leader or character cards gains +2000 power during this battle. then, if you have 8 or more rested cards, that card gains an additional +2000 power during this battle.",
+        "card_set": "Wings Of The Captain[Op06]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Wings Of The Captain",
+            "pack_code": "op-06"
+        }
+    },
+    {
+        "id": "ST08-014",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Gum-Gum Bell",
+        "rare": "C",
+        "cost": "2",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "black",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[main] you may add 1 card from the top of your life cards to your hand: give up to 1 of your opponent's characters −7 cost during this turn.",
+        "card_set": "Monkey D. Luffy[St-08]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Monkey D Luffy",
+            "pack_code": "st-08"
+        }
+    },
+    {
+        "id": "OP01-016",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p3",
+        "name": "Nami",
+        "rare": "R",
+        "cost": "1",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "2000",
+        "counter": "1000",
+        "color": "red",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[on play] look at 5 cards from the top of your deck; reveal up to 1 {straw hat crew} type card other than [nami] and add it to your hand. then, place the rest at the bottom of your deck in any order.",
+        "card_set": "The Three Captains[St-10]",
+        "pack_data": {
+            "pack_name": "(Ultra Deck) The Three Captains",
+            "pack_code": "st-10"
+        }
+    },
+    {
+        "id": "OP01-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001_p1.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": "p1",
+        "name": "Roronoa Zoro",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x1] [your turn] all of your characters gain +1000 power.",
+        "card_set": "Romance Dawn [Op01]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Romance Dawn",
+            "pack_code": "op-01"
+        }
+    },
+    {
+        "id": "OP07-016",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-016.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Galaxy Wink",
+        "rare": "R",
+        "cost": "1",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Revolutionary Army"
+        ],
+        "effect": "[main] up to 1 of your {revolutionary army} type characters gains +2000 power during this turn. then, give up to 1 of your opponent's characters −1000 power during this turn.",
+        "card_set": "500 Years In The Future [Op-07]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) 500 Years In The Future",
+            "pack_code": "op-07"
+        }
+    },
+    {
+        "id": "OP04-016",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-016.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Bad Manners Kick Course",
+        "rare": "R",
+        "cost": "-",
+        "attribute": "                    -",
+        "attribute_image_url": "",
+        "power": "-",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Alabasta",
+            "Straw Hat Crew"
+        ],
+        "effect": "[counter] you may trash 1 card from your hand: up to 1 of your leader or character cards gains +3000 power during this battle.",
+        "card_set": "Kingdoms Of Intrigue [Op04]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Kingdoms Of Intrigue",
+            "pack_code": "op-04"
+        }
+    },
+    {
+        "id": "OP03-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001_p1.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p1",
+        "name": "Portgas.D.Ace",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Whitebeard Pirates"
+        ],
+        "effect": "when this leader attacks or is attacked, you may trash any number of event or stage cards from your hand. this leader gains +1000 power during this battle for every card trashed.",
+        "card_set": "Pillars Of Strength [Op03]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Pillars Of Strength",
+            "pack_code": "op-03"
+        }
+    },
+    {
+        "id": "ST06-003",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-003.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Jango",
+        "rare": "C",
+        "cost": "1",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "3000",
+        "counter": "1000",
+        "color": "black",
+        "crew": [
+            "Navy"
+        ],
+        "effect": "-",
+        "card_set": "Absolute Justice [St-06]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Absolute Justice",
+            "pack_code": "st-06"
+        }
+    },
+    {
+        "id": "ST04-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png?240619",
+        "illustration_type": "Comic",
+        "illustration_alternative_id": null,
+        "name": "Kaido",
+        "rare": "L",
+        "cost": "5",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "5000",
+        "counter": null,
+        "color": "purple",
+        "crew": [
+            "The Four Emperors",
+            "Animal Kingdom Pirates"
+        ],
+        "effect": "[activate: main] [once per turn] don!! −7 (you may return the specified number of don!! cards from your field to your don!! deck.): trash up to 1 of your opponent's life cards.",
+        "card_set": "Animal Kingdom Pirates[St-04]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Animal Kingdom Pirates",
+            "pack_code": "st-04"
+        }
+    },
+    {
+        "id": "OP03-008",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p1",
+        "name": "Buggy",
+        "rare": "SP CARD",
+        "cost": "1",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "3000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Buggy Pirates"
+        ],
+        "effect": "this character cannot be k.o.'d in battle by <slash> attribute cards.[on play] look at 5 cards from the top of your deck; reveal up to 1 red event and add it to your hand. then, place the rest at the bottom of your deck in any order.",
+        "card_set": "Wings Of The Captain[Op06]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Wings Of The Captain",
+            "pack_code": "op-06"
+        }
+    },
+    {
+        "id": "OP05-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Sabo",
+        "rare": "L",
+        "cost": "4",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red/black",
+        "crew": [
+            "Revolutionary Army"
+        ],
+        "effect": "[don!! x1] [opponent's turn] [once per turn] if your character with 5000 power or more would be k.o.'d, you may give that character −1000 power during this turn instead of that character being k.o.'d.",
+        "card_set": "Awakening Of The New Era[Op05]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Awakening Of The New Era",
+            "pack_code": "op-05"
+        }
+    },
+    {
+        "id": "ST01-002",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Usopp",
+        "rare": "C",
+        "cost": "2",
+        "attribute": "Ranged",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png",
+        "power": "2000",
+        "counter": "1000",
+        "color": "red",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x2] [when attacking] your opponent cannot activate a [blocker] character that has 5000 or more power during this battle.",
+        "card_set": "Straw Hat Crew[St-01]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Straw Hat Crew",
+            "pack_code": "st-01"
+        }
+    },
+    {
+        "id": "P-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/P-001_p1.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": "p1",
+        "name": "Monkey.D.Luffy",
+        "rare": "P",
+        "cost": "6",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "7000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x2] this character gains [rush].(this card can attack on the turn in which it is played.)",
+        "card_set": "Super Pre-Release ",
+        "pack_data": {
+            "pack_name": null,
+            "pack_code": null
+        }
+    },
+    {
+        "id": "OP01-021",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-021_p2.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p2",
+        "name": "Franky",
+        "rare": "UC",
+        "cost": "3",
+        "attribute": "Ranged",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type04.png",
+        "power": "4000",
+        "counter": null,
+        "color": "red",
+        "crew": [
+            "Straw Hat Crew"
+        ],
+        "effect": "[don!! x1] this character can also attack your opponent's active characters.",
+        "card_set": "Tournament Pack Vol.2",
+        "pack_data": {
+            "pack_name": null,
+            "pack_code": null
+        }
+    },
+    {
+        "id": "OP02-003",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-003.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": null,
+        "name": "Atmos",
+        "rare": "C",
+        "cost": "4",
+        "attribute": "Slash",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type02.png",
+        "power": "6000",
+        "counter": "1000",
+        "color": "red",
+        "crew": [
+            "Whitebeard Pirates"
+        ],
+        "effect": "-",
+        "card_set": "Paramount War [Op02]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Paramount War",
+            "pack_code": "op-02"
+        }
+    },
+    {
+        "id": "OP06-001",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-001.png?240619",
+        "illustration_type": "Animation",
+        "illustration_alternative_id": null,
+        "name": "Uta",
+        "rare": "L",
+        "cost": "4",
+        "attribute": "Special",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type03.png",
+        "power": "5000",
+        "counter": null,
+        "color": "red/purple",
+        "crew": [
+            "Film"
+        ],
+        "effect": "[when attacking] you may trash 1 {film} type card from your hand: give up to 1 of your opponent's characters −2000 power during this turn. then, add up to 1 don!! card from your don!! deck and rest it.",
+        "card_set": "Wings Of The Captain[Op06]",
+        "pack_data": {
+            "pack_name": "(Booster Pack) Wings Of The Captain",
+            "pack_code": "op-06"
+        }
+    },
+    {
+        "id": "OP02-041",
+        "illustration_url": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p2.png?240619",
+        "illustration_type": "Original Illustrations",
+        "illustration_alternative_id": "p2",
+        "name": "Monkey.D.Luffy",
+        "rare": "R",
+        "cost": "7",
+        "attribute": "Strike",
+        "attribute_image_url": "https://en.onepiece-cardgame.com/images/cardlist/attribute/ico_type01.png",
+        "power": "7000",
+        "counter": null,
+        "color": "green",
+        "crew": [
+            "Film",
+            "Supernovas",
+            "Straw Hat Crew"
+        ],
+        "effect": "[blocker] (after your opponent declares an attack, you may rest this card to make it the new target of the attack.)[on play] play up to 1 {film} or {straw hat crew} type character card with a cost of 4 or less from your hand.",
+        "card_set": "Uta[St-11]",
+        "pack_data": {
+            "pack_name": "(Starter Deck) Uta",
+            "pack_code": "st-11"
+        }
+    }
+]
