@@ -13,7 +13,8 @@ def get_link_list():
                 <option value="">Recording</option>
                 <option value="">ALL</option>
                 <option value="569201">EXTRA BOOSTER &lt;br class="spInline"&gt;-MEMORIAL COLLECTION- [EB-01]</option>
-                <option value="569106" selected="">BOOSTER PACK &lt;br class="spInline"&gt;-WINGS OF THE CAPTAIN- [OP-06]</option>
+                <option value="569107" selected="">BOOSTER PACK &lt;br class="spInline"&gt;-500 YEARS IN THE FUTURE- [OP-07]</option>
+                <option value="569106">BOOSTER PACK &lt;br class="spInline"&gt;-WINGS OF THE CAPTAIN- [OP-06]</option>
                 <option value="569105">BOOSTER PACK &lt;br class="spInline"&gt;-AWAKENING OF THE NEW ERA- [OP-05]</option>
                 <option value="569104">BOOSTER PACK &lt;br class="spInline"&gt;-KINGDOMS OF INTRIGUE- [OP-04]</option>
                 <option value="569103">BOOSTER PACK &lt;br class="spInline"&gt;-PILLARS OF STRENGTH- [OP-03]</option>
@@ -33,7 +34,7 @@ def get_link_list():
                 <option value="569002">STARTER DECK &lt;br class="spInline"&gt;-Worst Generation- [ST-02]</option>
                 <option value="569001">STARTER DECK &lt;br class="spInline"&gt;-Straw Hat Crew- [ST-01]</option>
                 <option value="569901">Promotion card</option>
-                <option value="569801">Limited Product Card</option>
+                <option value="569801">Other Product Card</option>
             </select>
             """
 
@@ -44,8 +45,10 @@ def get_link_list():
     for option in options:
         if not option["value"]:
             continue
-        model = {"link": f"https://en.onepiece-cardgame.com/cardlist/?series={option['value']}",
-                 "series": option.text.replace("<br class=\"spInline\">", "")}
+        model = {
+            "link": f"https://en.onepiece-cardgame.com/cardlist/?series={option['value']}",
+            "series": option.text.replace('<br class="spInline">', ""),
+        }
         # clean html text
         model["slug"] = slugify(model["series"])
         booster_list.append(model)
@@ -63,7 +66,7 @@ def download_html(booster_list):
         slug = model["slug"]
         response = requests.get(link)
         print(response.text)
-        with open(f"htmls/{slug}.html", "w", encoding="utf-8") as f:
+        with open(f"data/htmls/{slug}.html", "w", encoding="utf-8") as f:
             f.write(str(response.text))
         count += 1
 
@@ -79,22 +82,13 @@ def slugify(name):
 
 def download_with_selenium(model_list):
     ilustration_types = [
-        {
-            "checkbox_id": "illustration_Comic",
-            "slug": "comic"
-        },
-        {
-            "checkbox_id": "illustration_Animation",
-            "slug": "animation"
-        },
+        {"checkbox_id": "illustration_Comic", "slug": "comic"},
+        {"checkbox_id": "illustration_Animation", "slug": "animation"},
         {
             "checkbox_id": "illustration_Original Illustrations",
-            "slug": "original_illustrations"
+            "slug": "original-illustrations",
         },
-        {
-            "checkbox_id": "illustration_Other",
-            "slug": "other"
-        },
+        {"checkbox_id": "illustration_Other", "slug": "other"},
     ]
 
     submit_button_value = "SEARCH"
@@ -126,7 +120,9 @@ def download_with_selenium(model_list):
 
             print("clicking on submit button")
             div_element = driver.find_element(By.CLASS_NAME, "commonBtn.submitBtn")
-            submit_button = div_element.find_element(By.XPATH, f".//input[@value='{submit_button_value}']")
+            submit_button = div_element.find_element(
+                By.XPATH, f".//input[@value='{submit_button_value}']"
+            )
             submit_button.click()
 
             # screen = submit_button.screenshot_as_png
@@ -135,12 +131,16 @@ def download_with_selenium(model_list):
 
             time.sleep(1)
             print("downloading html")
-            with open(f"htmls/{slug}_{illustration_type['slug']}.html", "w", encoding="utf-8") as f:
+            with open(
+                f"data/htmls/{slug}_{illustration_type['slug']}.html",
+                "w",
+                encoding="utf-8",
+            ) as f:
                 f.write(driver.page_source)
 
 
 if __name__ == "__main__":
     model_list = get_link_list()
-    with open("boosters.json", "w") as f:
+    with open("data/boosters.json", "w") as f:
         f.write(str(model_list))
     download_with_selenium(model_list)
