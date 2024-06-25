@@ -9,7 +9,6 @@ ONE_PIECE_BASE_URL = "https://en.onepiece-cardgame.com"
 
 def get_id(string):
     string = string.split("_")
-    print(string)
     if len(string) == 2:
         return string[0], string[1]
     return string[0], None
@@ -21,6 +20,7 @@ def get_illustration_type(string):
         return "Original Illustrations"
     return string.split("_")[-1].title()
 
+
 def make_url(string):
     if string.startswith(".."):
         string = string.replace("..", "")
@@ -29,12 +29,18 @@ def make_url(string):
 
 def get_cost(string):
     string = string.lower()
-    return string.replace("life", "").replace("cost", "").strip()
+    string = string.replace("life", "").replace("cost", "").strip()
+    if string == "-":
+        return None
+    return string
 
 
 def get_power(string):
     string = string.lower()
-    return string.replace("power", "").strip()
+    string = string.replace("power", "").strip()
+    if string == "-":
+        return None
+    return string
 
 
 def get_counter(string):
@@ -70,6 +76,13 @@ def get_card_set(string):
         string = string[1:].replace("-", "", 1)
 
     return string.title()
+
+
+def get_attribute(string):
+    string = string.lower()
+    if string.contains("attribute"):
+        return None
+    return string.split("\n")[-2]
 
 
 def extractor(file_list):
@@ -164,22 +177,24 @@ def extractor(file_list):
             card = deepcopy(card_data_example)
             card["id"], card["illustration_alternative_id"] = get_id(element["id"])
             card["illustration_url"] = make_url(element.find("img")["src"])
-            card["illustration_type"] = get_illustration_type(file.split("--")[-1].split(".")[0])
+            card["illustration_type"] = get_illustration_type(
+                file.split("--")[-1].split(".")[0]
+            )
             card["name"] = element.find("div", class_="cardName").text
             card["rare"] = (
                 element.find("div", class_="infoCol").find_all("span")[1].text
             )
-
             card["cost"] = get_cost(element.find("div", class_="cost").text)
-            # from '\nAttribute\nStrike\n', to 'Strike'
             attribute = element.find("div", class_="attribute").text
-            card["attribute"] = attribute.split("\n")[-2]
+            if card["name"] == "Bad Manners Kick Course":
+                print(attribute, get_attribute(attribute))
+            card["attribute"] = get_attribute(attribute)
             try:
                 card["attribute_image_url"] = make_url(
                     element.find("div", class_="attribute").find("img")["src"]
                 )
             except TypeError:
-                card["attribute_image_url"] = ""
+                card["attribute_image_url"] = None
             card["power"] = get_power(element.find("div", class_="power").text)
             card["counter"] = get_counter(element.find("div", class_="counter").text)
             card["color"] = get_color(element.find("div", class_="color").text)
@@ -187,9 +202,7 @@ def extractor(file_list):
             card["effect"] = get_effect(element.find("div", class_="text").text)
             card["card_set"] = get_card_set(element.find("div", class_="getInfo").text)
             card["pack_data"] = pack
-
             card_data_file.append(card)
-            break
 
     with open("data/card_data.json", "w", encoding="utf-8") as f:
         f.write(json.dumps(card_data_file, indent=4, ensure_ascii=False))
@@ -197,6 +210,4 @@ def extractor(file_list):
 
 if __name__ == "__main__":
     html_file_list = glob.glob("data/htmls/*.html")
-    print(html_file_list)
-
     extractor(html_file_list)
